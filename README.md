@@ -3,6 +3,8 @@ In this project, you will build a React web application called Jammming. You wil
 
 ---
 <img width="438" height="329" alt="jamming-project-four-three-preview" src="https://github.com/user-attachments/assets/e142e4f9-2471-4f1e-b9ae-d63853408ee7" />
+
+
 ## Project Requirements
 Build a web app using React
 Version control your application with Git and host the repository on GitHub
